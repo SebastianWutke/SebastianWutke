@@ -24,4 +24,4 @@ I'm a QA engineer building **[WuseBox](https://wusebox.com/en/)**: free browser-
 - [Usuwanie EXIF i wykrywanie zdjęć AI](https://wusebox.com/usuwanie-exif-i-znakow-ai/) · [EXIF cleaner & AI detector](https://wusebox.com/exif-cleaner-and-ai-detector/)
 - [Masowy generator voucherów](https://wusebox.com/generator-voucherow-bulk/) · [Bulk voucher generator](https://wusebox.com/bulk-voucher-generator/)
 
-📝 [Blog (PL)](https://wusebox.com/blog/) · [Blog (EN)](https://wusebox.com/en/blog/) · 💼 [LinkedIn](TWÓJ_LINK)
+📝 [Blog (PL)](https://wusebox.com/blog/) · [Blog (EN)](https://wusebox.com/en/blog/) · 💼 [LinkedIn](www.linkedin.com/in/sebastian-wutke-2027251a4)
